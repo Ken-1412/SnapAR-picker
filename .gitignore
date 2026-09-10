@@ -2,6 +2,20 @@
 **/node_modules
 .pnpm-store/
 
+# Python & Virtual Environments
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# ML Runs, Weights & Synthetic Datasets
+runs/
+ml/runs/
+ml/dataset/smoke_test/
+yolov8n.pt
+*.pt
+*.bin
+
 # Build outputs
 dist/
 build/

@@ -1,0 +1,10 @@
+ultralytics
+torch
+torchvision
+onnx
+onnxruntime
+opencv-python
+numpy
+pyyaml
+qai-hub
+pytest
